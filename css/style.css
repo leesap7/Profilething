@@ -1,0 +1,210 @@
+
+#main-header{
+    text-align:left;
+    background-color:white;
+    color:black;
+    padding:20px;
+    margin:-150px;
+    margin-bottom:50px;
+    font-size:20px;
+    font-family:monospace;
+}
+#main-footer{
+    background-color:rgb(255, 255, 255);
+    color:white;
+    padding: 30px;
+    margin:-150px;
+    margin-top:0px;
+}
+#body{
+    margin:150px;
+    background-color:rgb(219, 219, 219);
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    line-height:1.6em;
+}
+#about-me{
+    text-align:center;
+    font-family:monospace;
+    font-size:40px;
+}
+#circles{
+    text-align:center;
+    font-family:monospace;
+    font-size:40px;
+}
+#stories{
+    text-align:center;
+    font-family:monospace;
+    font-size:40px;
+}
+#sub{
+    font-family:monospace;
+    font-size:20px;
+}
+#brush2{
+    position:relative; 
+    left:650px;
+    top:-320px;
+}
+#watt{
+    position:relative; 
+    left:200px;
+    top:-150px;
+    width: 200px;
+} 
+#port{
+    position:relative;
+    left:90px;
+    top:-150px;
+    width:200px;
+}
+#brush1{
+    position:relative;
+    left:-175px;
+
+}
+#insta{
+    position:relative;
+    top:-28px;
+    left:1000px;
+}
+#insta:hover{
+    height:4.6%;
+    width:4.6%;
+    margin-top:-1px;
+}
+#fb{
+    position:relative;
+    top:-30px;
+    left:1000px;
+}
+#fb:hover{
+    height:4.5%;
+    width:4.5%;
+}
+#discrd{
+    position:relative;
+    top:-30px;
+    left:1000px;
+}
+#discrd:hover{
+    height:4.5%;
+    width:4.5%;
+}
+#mini-header{
+    background-color: black;
+    color:white;
+    margin:-150px;
+    margin-bottom:50px;
+    padding:50px;
+    margin-top:50px;
+}
+#gif1{
+    position:relative;
+    top:-400px;
+    left:700px;
+    width:500px;
+    height:400px;
+}
+#tri{
+    position:relative;
+    top:-600px;
+}
+#circle {
+    width: 100px;
+    height: 100px;
+    background: red;
+    border-radius: 50%
+}
+#para{
+    margin-left:100px;
+}
+.my-form{
+    padding:20px;
+}
+
+.my-form .form_group{
+    padding-bottom:15px;
+}
+
+.my-form label{
+    display:block;
+}
+
+.my-form input[type="text"]{
+    padding:8px;
+    width:100%;
+    
+}
+
+.button{
+    background-color:black;
+    color:white;
+    padding:10px 15px;
+    border:none;
+}
+
+.button:hover{
+    background:rgb(67, 67, 67);
+    color:white;
+}
+
+.hint:hover{
+    background:red;
+}
+#flr{
+    position:relative;
+    left:43px;
+}
+#degree{
+    position:relative;
+    left:73px;
+}
+#flr:hover{
+    position:relative;
+    top:20px;
+}
+#age:hover{
+    position:relative;
+    top:-20px;
+}
+#interests:hover{
+    position:relative;
+    left:-20px;
+}
+#degree:hover{
+    position:relative;
+    left:93px;
+}
+#name:hover{
+    position:relative;
+    left:-20px;
+}
+#hobbies:hover{
+    position:relative;
+    left:20px;
+}
+
+a:link {
+    color: pink;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:visited {
+    color: pink;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    color: grey;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:active {
+    color: pink;
+    background-color: transparent;
+    text-decoration: underline;
+  }
